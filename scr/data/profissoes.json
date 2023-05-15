@@ -1,0 +1,838 @@
+[
+  {
+    "profissao": "Assistente Social",
+    "descricaoProfissao": "Garantir proteção social e apoio a indivíduos, famílias e comunidades no enfrentamento de suas dificuldades, por meio de serviços, benefícios, programas e projetos.",
+    "leiFederal": "LEI No 8.662, DE 7 DE JUNHO DE 1993",
+    "orgaoFederal": "Conselho Federal de Serviço Social (CFESS)",
+    "orgaoRegional": "Conselho Regional de Serviço Social (CRESS)",
+    "tipoRegistro": "CRESS",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Biólogo(a)",
+    "descricaoProfissao": "Formular e elaborar estudo, projeto ou pesquisa científica básica e aplicada, nos vários setores da Biologia ou a ela ligados, bem como os que se relacionem à preservação, saneamento e melhoramento do meio ambiente.",
+    "leiFederal": "LEI Nº 6.684, DE 3 DE SETEMBRO DE 1979",
+    "orgaoFederal": "Conselho Federal de Biologia (CFBio)",
+    "orgaoRegional": "Conselho Regional de Biologia (CRBio)",
+    "tipoRegistro": [
+      {
+        "tipoSubRegistro": "CRBio-01",
+        "tipoSubRegistroEstados": "SP, MT e MS"
+      },
+      {
+        "tipoSubRegistro": "CRBio-02",
+        "tipoSubRegistroEstados": "ES e RJ"
+      },
+      {
+        "tipoSubRegistro": "CRBio-03",
+        "tipoSubRegistroEstados": "RS e SC"
+      },
+      {
+        "tipoSubRegistro": "CRBio-04",
+        "tipoSubRegistroEstados": "MG, GO, TO e DF"
+      },
+      {
+        "tipoSubRegistro": "CRBio-05",
+        "tipoSubRegistroEstados": "CE, PE, RN "
+      },
+      {
+        "tipoSubRegistro": "CRBio-06",
+        "tipoSubRegistroEstados": "AC, AM, AP, PA, RO e RR"
+      },
+      {
+        "tipoSubRegistro": "CRBio-07",
+        "tipoSubRegistroEstados": "PR"
+      },
+      {
+        "tipoSubRegistro": "CRBio-08",
+        "tipoSubRegistroEstados": "AL, BA e SE"
+      }
+    ],
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Análises Clínicas",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Anatomia Humana",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Bioclimatologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Bioestatística",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biofísica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biogeografia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Celular",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Molecular",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Econômica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Marinha e Oceanografia Biológica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Sanitária",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biologia Ambiental",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Bioquímica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biotecnologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biotecnologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Botânica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Citologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Controle Biológico",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ecologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ecotecnologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ecotoxicologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Educação Ambiental",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Embriologia e Reprodução",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ensino de Ciências Biológicas",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Espeleobiologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Etologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisiologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fitoquímica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Genética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Hematologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Hidrobiologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Histologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Imunologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Limnologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Microbiologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Paleontologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Parasitologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Planejamento e Gerenciamento Ambientais",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Saúde Pública e/ou Escolar",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Virologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Zoologia",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Biomédico(a)",
+    "descricaoProfissao": "Atuar em equipes de saúde, a nível tecnológico, nas atividades complementares de diagnósticos como radiologia, serviços de hemoterapia, sob supervisão médica, e análises físico-químicas e microbiológicas.",
+    "leiFederal": "LEI Nº 6.684, DE 3 DE SETEMBRO DE 1979",
+    "orgaoFederal": "Conselho Federal de Biomedicina (CFBM)",
+    "orgaoRegional": "Conselhos Regionais de Biologia e Biomedicina (CRBB)",
+    "tipoRegistro": [
+      {
+        "tipoSubRegistro": "CRBio-01",
+        "tipoSubRegistroEstados": "SP, MT e MS"
+      },
+      {
+        "tipoSubRegistro": "CRBio-02",
+        "tipoSubRegistroEstados": "ES e RJ"
+      },
+      {
+        "tipoSubRegistro": "CRBio-03",
+        "tipoSubRegistroEstados": "RS e SC"
+      },
+      {
+        "tipoSubRegistro": "CRBio-04",
+        "tipoSubRegistroEstados": "MG, GO, TO e DF"
+      },
+      {
+        "tipoSubRegistro": "CRBio-05",
+        "tipoSubRegistroEstados": "CE, PE, RN"
+      },
+      {
+        "tipoSubRegistro": "CRBio-06",
+        "tipoSubRegistroEstados": "AC, AM, AP, PA, RO e RR"
+      },
+      {
+        "tipoSubRegistro": "CRBio-07",
+        "tipoSubRegistroEstados": "PR"
+      },
+      {
+        "tipoSubRegistro": "CRBio-08",
+        "tipoSubRegistroEstados": "AL, BA e SE"
+      }
+    ],
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Análises clínicas (patologia clínica)",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Análises ambientais e bromatológicas",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Hemoterapia e Terapia Celular",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Citologia Oncótica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Perícia Criminal",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Auditoria Biomédica",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Profissional de Educação Física",
+    "descricaoProfissao": "Organiza, executa e supervisiona programas de atividades físicas para pessoas ou grupos.",
+    "leiFederal": "LEI Nº 9.696, DE 1 DE SETEMBRO DE 1998",
+    "orgaoFederal": "Conselho Federal de Educação Física (CONFEF)",
+    "orgaoRegional": "Conselho Regional de Educação Física (CREF)",
+    "tipoRegistro": [
+      {
+        "tipoSubRegistro": "CREF1",
+        "tipoSubRegistroEstados": "RJ"
+      },
+      {
+        "tipoSubRegistro": "CREF2",
+        "tipoSubRegistroEstados": "RS"
+      },
+      {
+        "tipoSubRegistro": "CREF3",
+        "tipoSubRegistroEstados": "SC"
+      },
+      {
+        "tipoSubRegistro": "CREF4",
+        "tipoSubRegistroEstados": "SP"
+      },
+      {
+        "tipoSubRegistro": "CREF5",
+        "tipoSubRegistroEstados": "CE"
+      },
+      {
+        "tipoSubRegistro": "CREF6",
+        "tipoSubRegistroEstados": "MG"
+      },
+      {
+        "tipoSubRegistro": "CREF7",
+        "tipoSubRegistroEstados": "DF"
+      },
+      {
+        "tipoSubRegistro": "CREF8",
+        "tipoSubRegistroEstados": "AM, AC, RO e RR"
+      },
+      {
+        "tipoSubRegistro": "CREF9",
+        "tipoSubRegistroEstados": "PR"
+      },
+      {
+        "tipoSubRegistro": "CREF10",
+        "tipoSubRegistroEstados": "PB"
+      },
+      {
+        "tipoSubRegistro": "CREF11",
+        "tipoSubRegistroEstados": "MS"
+      },
+      {
+        "tipoSubRegistro": "CREF12",
+        "tipoSubRegistroEstados": "PE"
+      },
+      {
+        "tipoSubRegistro": "CREF13",
+        "tipoSubRegistroEstados": "BA"
+      },
+      {
+        "tipoSubRegistro": "CREF14",
+        "tipoSubRegistroEstados": "GO e TO"
+      },
+      {
+        "tipoSubRegistro": "CREF15",
+        "tipoSubRegistroEstados": "PI"
+      },
+      {
+        "tipoSubRegistro": "CREF16",
+        "tipoSubRegistroEstados": "RN"
+      },
+      {
+        "tipoSubRegistro": "CREF17",
+        "tipoSubRegistroEstados": "MT"
+      },
+      {
+        "tipoSubRegistro": "CREF18",
+        "tipoSubRegistroEstados": "AP e PA"
+      },
+      {
+        "tipoSubRegistro": "CREF19",
+        "tipoSubRegistroEstados": "AL"
+      },
+      {
+        "tipoSubRegistro": "CREF20",
+        "tipoSubRegistroEstados": "SE"
+      },
+      {
+        "tipoSubRegistro": "CREF21",
+        "tipoSubRegistroEstados": "MA"
+      },
+      {
+        "tipoSubRegistro": "CREF22",
+        "tipoSubRegistroEstados": "ES"
+      }
+    ],
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Academias, Fitness e Wellness",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Anatomia Funcional",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Atletismo",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Educação Física Adaptada",
+        "descricaoEspecialidade": ""
+      },     
+      {
+        "especialidade": "Fisioterapia Hospitalar",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ginástica Laboral",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Treinamento Físico para a Terceira Idade",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Enfermeiro(a)",
+    "descricaoProfissao": "Planejamento, organização, coordenação, execução e avaliação dos serviços da assistência de enfermagem, além de consultoria, auditoria e emissão de parecer sobre matéria de enfermagem.",
+    "leiFederal": "LEI No 7.498, DE 25 DE JUNHO DE 1986",
+    "orgaoFederal": "Conselho Federal de Enfermagem (Cofen)",
+    "orgaoRegional": "Conselho Regional de Enfermagem (Coren)",
+    "tipoRegistro": "Coren",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Pediatria",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Saúde da Família",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Home Care",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Ginecologia e Obstetrícia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Urgência e emergência",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Oncologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Saúde mental",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Centro cirúrgico",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Dermatologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Cuidados paliativos",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Enfermagem Forense",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Enfermagem Aeroespacial",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Estaticista",
+    "descricaoProfissao": "Executar procedimentos estéticos faciais, corporais e capilares, utilizando como recursos de trabalho produtos cosméticos, técnicas e equipamentos com registro na Agência Nacional de Vigilância Sanitária (Anvisa).",
+    "leiFederal": "",
+    "orgaoFederal": "Sociedade Brasileira de Estética e Cosmetologia (SBESC)",
+    "orgaoRegional": "",
+    "tipoRegistro": "CNEC",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Enfermagem Estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Biomedicina Estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia Estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Estética e Cosmetologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Dermoestética e Cosmética Aplicada",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Estética Facial e Corporal Avançada",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Saúde Estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia Dermatofuncional Estética e Cosmetologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Estética Clínica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Enfermagem em Dermatologia e Estética",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Farmacêutico(a)",
+    "descricaoProfissao": "Fabricar, manipular e comecializar todos os medicamentos oficinais, especialidades farmaceuticas, produtos quimicos, galenicos, biologicos e plantas de aplicações terapeuticas.",
+    "leiFederal": "",
+    "orgaoFederal": "Conselho Federal de Farmácia (CFF)",
+    "orgaoRegional": "",
+    "tipoRegistro": "CRF",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Análises clínicas e toxicológicas",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Auditoria e gestão da qualidade industrial farmacêutica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia clínica e hospitalar em infectologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia clínica em cirurgia, emergência e trauma",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia estética",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia hospitalar e clínica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia hospitalar oncológica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia magistral",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Farmácia veterinária",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fitoterapia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Gestão de negócios farmacêuticos",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Radiofarmácia",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Fisioterapeuto(a)",
+    "descricaoProfissao": "Diagnosticar e tratar os distúrbios relacionados ao movimento do corpo humano.",
+    "leiFederal": "",
+    "orgaoFederal": "Conselho Federal de Fisioterapia e Terapia Ocupacional (COFFITO)",
+    "orgaoRegional": "",
+    "tipoRegistro": "CREFITO",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Avaliação Completa: Física, Funcional e Postural",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia Ortopedica e Traumatologica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia Dermatofuncional Estética e Cosmetologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia Cardiorrespiratória",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia Neurofuncional Pediátrica",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fisioterapia do Trabalho e Ergonomia",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Fonoaudiólogo(a)",
+    "descricaoProfissao": "Realizar terapia fonoaudiológica dos problemas de comunicação oral e escrita, voz e audição.",
+    "leiFederal": "",
+    "orgaoFederal": "Conselho Federal de Fonoaudiologia (CFFa)",
+    "orgaoRegional": "Conselho Regional de Fonoaudiologia (CREFONO)",
+    "tipoRegistro": "CREFONO",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Audiologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Disfagia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fluência",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fonoaudiologia Escolar/Educacional",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fonoaudiologia do Trabalho",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Fonoaudiologia Neurofuncional",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Gerontologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Linguagem",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Motricidade Orofacial",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Neuropsicologia",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Saúde Coletiva",
+        "descricaoEspecialidade": ""
+      },
+      {
+        "especialidade": "Voz",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Gerontólogo",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Médico(a)",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "Médico(a) Veterinário(a)",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Naturólogo(a)",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Nutricionista",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Obstetra",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Odontólogo(a)",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Psicólogo(a)",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Psiquiatra",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Quiropraxista",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "",
+    "orgaoRegional": "",
+    "tipoRegistro": "",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  },
+  {
+    "profissao": "Terapeuta Ocupacional",
+    "descricaoProfissao": "",
+    "leiFederal": "",
+    "orgaoFederal": "Conselho Federal de Fisioterapia e Terapia Ocupacional (COFFITO)",
+    "orgaoRegional": "",
+    "tipoRegistro": "CREFITO",
+    "nivel": "superior",
+    "especialidades": [
+      {
+        "especialidade": "",
+        "descricaoEspecialidade": ""
+      }
+    ]
+  }
+]

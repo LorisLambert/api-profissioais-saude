@@ -1,0 +1,15 @@
+{
+  "name": "api-profissioais-saude",
+  "version": "1.0.0",
+  "description": "Desenvolvida para ser usada no projeto Homeostase, essa API contém informações sobre os tipos de profissionais da saúde no Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
